@@ -78,7 +78,7 @@ public void calcularCuotaMensual(int nummeses) {
 		System.out.println("Número de accidentes");
 		int numaccidentes = teclado.nextInt();
 		System.out.println("Número de dueños");
-		int numdueños = teclado.nextInt();
+		int numduennos = teclado.nextInt();
 	
 	if (numaccidentes >=1&& numkilometros >= 100000) {
 		preciofinal = this.precio - 5000;
